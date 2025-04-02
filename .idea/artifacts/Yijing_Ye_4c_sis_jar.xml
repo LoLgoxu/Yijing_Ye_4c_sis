@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yijing_Ye_4c_sis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yijing_Ye_4c_sis_jar</output-path>
+    <root id="archive" name="Yijing_Ye_4c_sis.jar">
+      <element id="module-output" name="4c_sis-reti_labo_Ye_Yijing_2025-02-26" />
+      <element id="module-output" name="Ye_2024-2025" />
+      <element id="module-output" name="4c_sis-reti_labo_Ye_Yijing_2025-01-08" />
+      <element id="module-output" name="4c_sis-reti_labo_Ye_Yijing_2025-04-02" />
+    </root>
+  </artifact>
+</component>
